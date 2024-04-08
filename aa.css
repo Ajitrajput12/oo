@@ -1,0 +1,18 @@
+body{
+	background-color: skyblue;
+}
+H1{
+	font-size: 40px;
+	color: red;
+	background-color:lightgreen;
+}
+h2{
+	font-size: 30px;
+	color: orange;
+	background-color:silver;
+}
+p{
+	font-size: 20px;
+	color:green;
+	background-color:lightgoldenrodyellow;
+}
